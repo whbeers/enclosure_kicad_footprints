@@ -1,0 +1,39 @@
+# Reports
+hardware/*.rpt
+
+# CPL data generated from PCB
+hardware/*.pos
+
+# KiCAD library cache
+hardware/fp-info-cache
+
+# KiCAD backup
+hardware/*.bak
+hardware/*.bck
+hardware/*.kicad_pcb-bak
+hardware/*.sch-bak
+hardware/_saved_*
+hardware/*-backups
+
+# Netlists
+hardware/*.net
+
+# BOM plugin output
+hardware/*.csv.tmp
+hardware/*.csv
+hardware/*.xml
+
+# fabrication data
+fabrication
+
+# Footprint info cache
+hardware/fp-info-cache
+
+# Autosave files
+hardware/_autosave-*
+
+# Temporary copies split by PCB
+hardware-splitboards
+hardware-io
+hardware-switch
+hardware-ux
