@@ -2,7 +2,7 @@
 
 This is a [KiCAD](https://www.kicad.org) footprint library containing footprints for many of the standard enclosures used by effect pedal builders, including all of the [metal enclosures](https://www.taydaelectronics.com/hardware/enclosures.html) available on (Tayda Electronics)[https://www.taydaelectronics] as of March 2023.
 
-All footprints and 3D models are derived directly from [CAD files](http://www.hammondmfg.com/dwg.htm) available from [![](images/Hammond Manufacturing](https://www.hammfg.com/).
+All footprints and 3D models are derived directly from [CAD files](http://www.hammondmfg.com/dwg.htm) available from [Hammond Manufacturing](https://www.hammfg.com/).
 
 *I am not affiliated with any of the brands, sites, or products named in this overview.*
 
